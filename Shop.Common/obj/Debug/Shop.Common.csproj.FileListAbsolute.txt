@@ -4,3 +4,9 @@ D:\Document_NTU\Khóa-Học-AnguLarJS-WEB-API-Entiy\ShopTest\Shop.Common\bin\Deb
 D:\Document_NTU\Khóa-Học-AnguLarJS-WEB-API-Entiy\ShopTest\Shop.Common\obj\Debug\Shop.Common.csproj.CoreCompileInputs.cache
 D:\Document_NTU\Khóa-Học-AnguLarJS-WEB-API-Entiy\ShopTest\Shop.Common\obj\Debug\Shop.Common.dll
 D:\Document_NTU\Khóa-Học-AnguLarJS-WEB-API-Entiy\ShopTest\Shop.Common\obj\Debug\Shop.Common.pdb
+D:\Document_NTU\Git\Shop.Common\bin\Debug\Shop.Common.dll.config
+D:\Document_NTU\Git\Shop.Common\bin\Debug\Shop.Common.dll
+D:\Document_NTU\Git\Shop.Common\bin\Debug\Shop.Common.pdb
+D:\Document_NTU\Git\Shop.Common\obj\Debug\Shop.Common.csproj.CoreCompileInputs.cache
+D:\Document_NTU\Git\Shop.Common\obj\Debug\Shop.Common.dll
+D:\Document_NTU\Git\Shop.Common\obj\Debug\Shop.Common.pdb

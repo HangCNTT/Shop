@@ -15,7 +15,7 @@ namespace Shop.Data.Migrations
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(Shop.Data.ShopDbContext context)
+        protected override void Seed(ShopDbContext context)
         {
             //  This method will be called after migrating to the latest version.
             var manager = new UserManager<ApplicationUser>(new UserStore<ApplicationUser>(new ShopDbContext()));
