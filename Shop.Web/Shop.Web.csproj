@@ -220,8 +220,6 @@
     <Content Include="Scripts\plugins\angular\LICENSE.md" />
     <Content Include="Scripts\plugins\angular\package.json" />
     <Content Include="Scripts\plugins\angular\README.md" />
-    <Content Include="Scripts\spa\app.js" />
-    <Content Include="Scripts\spa\shopDirective.html" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
@@ -235,6 +233,7 @@
     <Folder Include="App_Data\" />
     <Folder Include="Assets\admin\" />
     <Folder Include="Assets\client\" />
+    <Folder Include="Scripts\spa\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
