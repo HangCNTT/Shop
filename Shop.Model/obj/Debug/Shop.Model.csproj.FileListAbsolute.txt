@@ -29,3 +29,4 @@ D:\Document_NTU\Git\Shop.Model\obj\Debug\Shop.Model.csproj.CoreCompileInputs.cac
 D:\Document_NTU\Git\Shop.Model\obj\Debug\Shop.Model.csproj.CopyComplete
 D:\Document_NTU\Git\Shop.Model\obj\Debug\Shop.Model.dll
 D:\Document_NTU\Git\Shop.Model\obj\Debug\Shop.Model.pdb
+D:\Document_NTU\Git\Shop.Model\obj\Debug\Shop.Model.csprojAssemblyReference.cache

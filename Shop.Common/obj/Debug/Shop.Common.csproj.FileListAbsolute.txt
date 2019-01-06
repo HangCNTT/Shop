@@ -10,3 +10,4 @@ D:\Document_NTU\Git\Shop.Common\bin\Debug\Shop.Common.pdb
 D:\Document_NTU\Git\Shop.Common\obj\Debug\Shop.Common.csproj.CoreCompileInputs.cache
 D:\Document_NTU\Git\Shop.Common\obj\Debug\Shop.Common.dll
 D:\Document_NTU\Git\Shop.Common\obj\Debug\Shop.Common.pdb
+D:\Document_NTU\Git\Shop.Common\obj\Debug\Shop.Common.csprojAssemblyReference.cache
